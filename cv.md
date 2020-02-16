@@ -1,4 +1,9 @@
 # Agata Pochebut
+Phone : +375292868568  
+Email: pochebut.a@gmail.com  
+Skype: m2822032  
+Linkedin: www.linkedin.com/in/agatapochebut
+
 ### Objective
 Applying for a position of a java developer
 
@@ -44,6 +49,7 @@ Project description: web services, http services development.
 Project role: 1с developer
 
 **2019-2020 – Trainee, Educational Center of HTP**
+
 Project role: developer
 Project description: developing a web application
 
