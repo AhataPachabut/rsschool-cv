@@ -23,9 +23,9 @@ Specialization: Computer security
 Course: Technologies for developing enterprise solutions in Java
 
 ### Work experience
-2014-2016 – System administrator, Yanka Kupala State University of Grodno
+**2014-2016 – System administrator, Yanka Kupala State University of Grodno**
 
-2016-2020 – 1С Developer, Softservice
+**2016-2020 – 1С Developer, Softservice**
 
 Project description: development of enterprise management solutions that are designed for
 accounting, tax accounting, automation of all business processes.
@@ -43,7 +43,7 @@ Project role: 1с developer, consultant
 Project description: web services, http services development.
 Project role: 1с developer
 
-2019-2020 – Trainee, Educational Center of HTP
+**2019-2020 – Trainee, Educational Center of HTP**
 Project role: developer
 Project description: developing a web application
 
