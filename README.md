@@ -1,1 +1,1 @@
-https://AgataPochebut.github.io/rsschool-cv/cv
+ https://AgataPochebut.github.io/rsschool-cv/cv
